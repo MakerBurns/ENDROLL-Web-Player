@@ -1,0 +1,115 @@
+﻿………………………………………………………………………………………
+
+■ Game Hints
+
+There are three endings.
+One is the Normal Ending, and the other two are True Endings.
+(The two true endings have variations for different characters.)
+
+※ Also, the password displayed in True End 1 is required
+  for obtaining clear bonuses and accessing the bonus content.
+  You obtain the rewards from the mailbox in the gallery house.
+  There are many useful items for repeat playthroughs.
+
+………………………………………………………………………………………
+
+Details on how to get the endings are below.
+Very spoilery, so beware.
+
+↓
+
+↓
+
+↓
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+………………………………………………………………………………………
+
+■ Requirements to see the Normal Ending
+
+If you have less than 20 Guilt at the end of Day 5,
+you automatically go to the Normal Ending.
+(The night of Day 5 offers enough opportunities to recover.)
+
+………………………………………………………………………………………
+
+■ Requirements to see True Ending 1 or 2
+
+Have 20 or more Guilt by the end of Day 5.
+On the night of Day 7, you'll be given a choice.
+Choose "What should I do?" → True Ending 1
+Choose "No..." → True Ending 2
+
+Additionally, the character you choose as your patrol partner on Day 6
+ends up as a cruicial character in both True Endings.
+
+………………………………………………………………………………………
+
+■ Guilt-Rasing Events
+
+The ending branches are largely dependent on a variable called Guilt.
+Below are the events which increase your Guilt, so if you're aiming for endings,
+check this frequently. (More detail is given on the site.)
+
+[ Day 1 ]
+  No Guilt-raising events.
+[ Day 2 ]
+  No Guilt-raising events.
+
+[ Day 3 ]
+1. Tabasa grave event. Tabasa learns Warning Shot, Russell learns Consolation.
+   Guilt +5. (★Day 3 Only)
+2. Kelp event in one of the Seaside hotel rooms. Russell learns Red Eye.
+   Guilt +5.
+3. Reflect upon Russell's friend on entering Puddle Apartments.
+   Guilt +5.
+
+[ Day 4 ]
+1. Dead Tree Hill event with Cody or Dogma. The one you take learns Goddess's Protection.
+   Guilt +5. (★Day 4 Only)
+2. After asking "Gardenia?" inside the house after Gardenia's father,
+   talk to Gardenia waiting for him outside and choose "Your dad's not coming home."
+   Guilt +5. (★Day 4 Only)
+3. Reflect upon the girl residing in Deepsea Hotel.
+   Guilt +10.
+
+[ Day 5 ]
+1. Harvest the Yama-Basho in Dragons' Peak.
+   Guilt +5. (★Day 5 Only)
+2. In the Tabasa horse event in Dozing Forest, choose "Give it rest."
+   Guilt +5.
+3. Reflect upon the rabbit on entering the Place of Pity (rabbit dungeon).
+   Guilt +5.
+
+[ Day 6 ]
+1. Mireille event at Clover Hospital. Mireille learns Dirty Truth.
+   Guilt +5.
+
+[ Day 7 ]
+1. Dragons' Peak warehouse owner event.
+   Guilt +5. (★Day 7 Only)
+
+
+………………………………………………………………………………………
+
+If you complete all the above events, you end up with 60 Guilt.
+Since the Guilt-based branch is on Day 5, there honestly isn't much point to Day 6 and 7's events.
+But it might be fun to go whole-hog and aim for a perfect score of 60.
+
+Also, you can check your Guilt in-game by talking to the Nightmares in various places.
+However, not the Nightmares who chase after Russell.
+If you enter battle with them, you definitely can't win.
+
